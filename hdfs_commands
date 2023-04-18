@@ -1,0 +1,5 @@
+#in HDFS file sysetm  / is the root 
+#command to check the files inside the rool hdfs directory
+hadoop fs -ls /
+#command to create directory in hdfs
+hadoop fs -mkdir /input_data
